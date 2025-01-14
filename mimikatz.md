@@ -1,7 +1,3 @@
----
-description: Mimikatz Notes
----
-
 # Mimikatz
 
 ## Modules -
