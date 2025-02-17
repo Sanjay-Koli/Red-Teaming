@@ -1,4 +1,4 @@
-# description: 'Attacking and Defending Active Directory | credit goes to : Abhinandan Khurana (L0u51f3r007)'
+# Description: Attacking and Defending Active Directory | credit goes to : Abhinandan Khurana (L0u51f3r007)
 
 
 # 📔 CRTP Notes
