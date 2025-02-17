@@ -2,10 +2,6 @@
 description: Attacking and Defending Active Directory | credit goes to : Abhinandan Khurana (L0u51f3r007)
 ---
 
----
-description: Attacking and Defending Active Directory | Abhinandan Khurana (L0u51f3r007)
----
-
 # 📔 CRTP Notes
 
 ### Download executable Cradle
